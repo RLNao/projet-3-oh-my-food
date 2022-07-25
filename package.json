@@ -1,0 +1,22 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "projet openclassroom numéro 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RLNao/projet-3-oh-my-food.git"
+  },
+  "author": "ryo lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RLNao/projet-3-oh-my-food/issues"
+  },
+  "homepage": "https://github.com/RLNao/projet-3-oh-my-food#readme",
+  "dependencies": {
+    "sass": "^1.54.0"
+  }
+}
